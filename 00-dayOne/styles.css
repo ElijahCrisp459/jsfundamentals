@@ -1,0 +1,97 @@
+body{
+    background-color: tomato;
+}
+
+.circle{
+    background-color: white;
+    height: 45em;
+    width: 45em;
+    position:absolute;
+    margin:auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 50%;
+    box-shadow: 5px 5px 50px black;
+}
+
+.topBun{ background-color: tan;
+    height: 5.5em;
+    width: 25em;
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 25em;
+    right: 0;
+    margin:auto;
+    border-radius:  45% 45% 0 0;
+   
+}
+
+.ketchup{
+    background-color: red;
+    height:1.5em;
+    width: 25em;
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 17em;
+    right: 0;
+    margin:auto;
+    border-radius:  0 0 0 0;
+
+}
+
+.lettuce{
+    background-color: green;
+    height: 1.7em;
+    width: 25em;
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 12em;
+    right: 0;
+    margin:auto;
+    
+}
+
+.mustard{
+    background-color:yellow;
+    height: 1.5em;
+    width: 25em;
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 7em;
+    right: 0;
+    margin:auto;
+}
+
+.patty{
+    background-color: brown;
+    height: 3em;
+    width: 25em;
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 0em;
+    right: 0;
+    margin:auto;
+    border-radius:  20% 20% 20% 20%;
+   
+}
+
+.bottomBun{
+    background-color: tan;
+    height: 5.5em;
+    width: 25em;
+    position:absolute;
+    top: 12em;
+    left: 0;
+    bottom: 0em;
+    right: 0;
+    margin:auto;
+    border-radius:  0 0 35% 35%;
+   
+}
